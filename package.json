@@ -1,5 +1,5 @@
 {
-  "name": "test_2",
+  "name": "bug_to_reproduce",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
